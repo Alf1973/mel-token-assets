@@ -1,0 +1,13 @@
+{
+  "name": "MelanieT",
+  "symbol": "MEL",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "MAGA",
+  "website": "",
+  "explorer": "https://bscscan.com/token/0x4dfC15ef64104914F4123Bf5106D8Ec7B535d0d1",
+  "status": "active",
+  "id": "0x4dfC15ef64104914F4123Bf5106D8Ec7B535d0d1",
+  "links": [],
+  "logoURI": "https://raw.githubusercontent.com/Alf1973/mel-token-assets/refs/heads/main/logo.png"
+}
